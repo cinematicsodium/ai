@@ -1,0 +1,11 @@
+- Analyze the given Excel formula for clarity, specificity, and effectiveness.
+- Highlight potential ambiguities or misinterpretations.
+- Identify potential improvements or additions to make it more concise and readable while retaining core objectives.
+- Refine and rewrite the formula to incorporate identified improvements.
+- Provide a final version of the formula isolated in a code block, formatted as plain text.
+
+<<excel formula>>
+
+<</excel formula>>
+
+- Please structure your response with clear subheadings for each section.
